@@ -1,7 +1,24 @@
 ## Hello there 👋 I'm David
-<a href="https://www.flaticon.com/free-icons/linkedin" title="linkedin icons">Linkedin icons created by riajulislam - Flaticon</a>
 
 I recently completed my Master's degree in Media Informatics, a multidisciplinary field combining computer science, design, and user interaction. My passion lies in developing innovative tools and hardware prototypes to improve someone's day.
+
+💡 **What drives me:**
+I love bridging the gap between technology and user-centric design, focusing on practical solutions the given task. Whether it's through conception, software development or hardware tinkering, my goal is to create intuitive, pretty experiences.
+
+🔧 What I do:
+
+Build software tools that solve real-world problems.
+Design and develop hardware prototypes to explore new interfaces.
+Constantly learn and explore new technologies, both in software and hardware development.
+🌱 Currently working on:
+
+Integrating IoT solutions for smarter, more connected environments.
+Experimenting with UX design to create seamless interactions between users and devices.
+
+💼 Looking for Opportunities:
+I'm currently looking for a job where I can leverage my skills in software development and/or hardware prototyping to create innovative solutions. If you think I could be a great fit for your team, feel free to reach out:
+
+<a href="https://www.linkedin.com/in/muellerda/" target="_blank"><img src="./img/linkedin.png" alt="LinkedIn" width="40" height="40"></a>
 
 ### Programming Languages
 
@@ -24,7 +41,7 @@ I recently completed my Master's degree in Media Informatics, a multidisciplinar
 ![Static Badge](https://img.shields.io/badge/Flutter-%2302569B?style=flat&logo=flutter&logoColor=white)
 
 
-- 🔭 I’m currently working on ...
+<!--- 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
@@ -33,3 +50,6 @@ I recently completed my Master's degree in Media Informatics, a multidisciplinar
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+### Connect with me:
+I'm 
