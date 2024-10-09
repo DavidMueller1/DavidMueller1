@@ -1,6 +1,7 @@
-## Hello there 👋
+## Hello there 👋 I'm David
+<a href="https://www.flaticon.com/free-icons/linkedin" title="linkedin icons">Linkedin icons created by riajulislam - Flaticon</a>
 
-This is wip
+I recently completed my Master's degree in Media Informatics, a multidisciplinary field combining computer science, design, and user interaction. My passion lies in developing innovative tools and hardware prototypes to improve someone's day.
 
 ### Programming Languages
 
