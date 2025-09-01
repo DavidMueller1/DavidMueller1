@@ -12,14 +12,6 @@ I love bridging the gap between technology and user-centric design, focusing on 
 - Design and develop hardware prototypes
 - Constantly learn and explore new technologies
 
-💼 **Looking for Opportunities:**
-<br>
-I'm currently looking for a job where I can leverage my skills in software development and/or hardware prototyping. If you think I could be a great fit for your team, feel free to reach out:
-
-<a href="https://www.linkedin.com/in/muellerda/" target="_blank"><img src="./img/linkedin.png" alt="LinkedIn" width="40" height="40"></a>
-<br>
-<br>
-
 ### Skills
 For an overview of the most recent technologies I worked with, I could not resist putting some badges into this:
 
